@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinhviens>
+    <sinhvien>
+        <masinhvien>001</masinhvien>
+        <tensinhvien>Nguyễn Văn A</tensinhvien>
+        <namsinh>2000</namsinh>
+        <lop>CT01</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+    <sinhvien>
+        <masinhvien>002</masinhvien>
+        <tensinhvien>Trần Thị B</tensinhvien>
+        <namsinh>2001</namsinh>
+        <lop>CT02</lop>
+        <gioitinh>Nữ</gioitinh>
+    </sinhvien>
+    <sinhvien>
+        <masinhvien>003</masinhvien>
+        <tensinhvien>Lê Văn C</tensinhvien>
+        <namsinh>2000</namsinh>
+        <lop>CT03</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+</sinhviens>

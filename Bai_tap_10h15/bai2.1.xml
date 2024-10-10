@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<congty>
+    <tencogty>Công ty TNHH ABC</tencogty>
+    <giamdoc>
+        <ho>Nguyễn</ho>
+        <ten>Văn A</ten>
+    </giamdoc>
+    <diachi>
+        <duong>123 Đường Kinh Doanh</duong>
+        <thanhpho>Hà Nội</thanhpho>
+        <quocgia>Việt Nam</quocgia>
+        <ma_buu_dien>100000</ma_buu_dien>
+    </diachi>
+    <lienhe>
+        <dienthoai>+84987654321</dienthoai>
+        <email>contact@abc.com</email>
+    </lienhe>
+    <masothue>0101234567</masothue>
+</congty>
