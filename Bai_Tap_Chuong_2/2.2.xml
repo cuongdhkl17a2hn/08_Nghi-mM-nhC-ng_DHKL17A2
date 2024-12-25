@@ -1,0 +1,23 @@
+<danh_sach_sinh_vien>
+    <sinh_vien>
+        <ma_sinh_vien>SV001</ma_sinh_vien>
+        <ten_sinh_vien>Nguyễn Văn A</ten_sinh_vien>
+        <nam_sinh>2001</nam_sinh>
+        <lop>CTK42</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinh_vien>
+    <sinh_vien>
+        <ma_sinh_vien>SV002</ma_sinh_vien>
+        <ten_sinh_vien>Trần Thị B</ten_sinh_vien>
+        <nam_sinh>2002</nam_sinh>
+        <lop>CTK42</lop>
+        <gioi_tinh>Nữ</gioi_tinh>
+    </sinh_vien>
+    <sinh_vien>
+        <ma_sinh_vien>SV003</ma_sinh_vien>
+        <ten_sinh_vien>Lê Văn C</ten_sinh_vien>
+        <nam_sinh>2000</nam_sinh>
+        <lop>CTK41</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinh_vien>
+</danh_sach_sinh_vien>
